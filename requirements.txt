@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+sqlalchemy
+passlib[bcrypt]
+bcrypt==4.0.1
+python-multipart
+jinja2
+xgboost
+pillow
+itsdangerous
+opencv-python-headless
+ultralytics
